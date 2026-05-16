@@ -1,4 +1,4 @@
-<h1> Neural Network Forward Propagation Animation </h1>h1>
+<h1> Neural Network Forward Propagation Animation </h1>
 <p>
 Neural Network Forward PropagationThis script generates a smooth animated GIF visualizing forward propagation in a neural network.Features:Neurons light up sequentially as the signal travels from input to output
 Connections pulse with glowing blue highlights following the propagation wave
